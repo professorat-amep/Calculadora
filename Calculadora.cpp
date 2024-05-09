@@ -1,6 +1,8 @@
+#include "pch.h"
 #include "Calculadora.h"
 #include <cmath>
 #include <stdexcept>
+
 
 int Calculadora::multiplica(int a, int b) {
     int res = 0;
@@ -21,5 +23,3 @@ float Calculadora::divide(int numerador, int denominador) {
     }
     return (float)numerador / (float)denominador;
 }
-
-
