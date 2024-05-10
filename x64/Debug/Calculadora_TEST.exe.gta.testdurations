@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>C:\Users\lidix\Visual Studio\repos\Calculadora\x64\Debug\Calculadora_TEST.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="TestCalculadora.MultiplicaPositius" Duration="1" />
+    <TestDuration Test="TestCalculadora.MultiplicaNegatius" Duration="1" />
+    <TestDuration Test="TestCalculadora.Divide" Duration="1" />
+    <TestDuration Test="TestCalculadora.ValorsReals" Duration="1" />
+    <TestDuration Test="TestCalculadora.DivideZero" Duration="1" />
+    <TestDuration Test="TestUtils.Primer" Duration="1" />
+    <TestDuration Test="TestUtils.NoPrimer" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
