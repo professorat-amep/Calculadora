@@ -55,4 +55,4 @@ jobs:
       working-directory: ${{env.GITHUB_WORKSPACE}}
       run: |
         cd x64/Debug
-        ./test.exe
+        ./Calculadora_TEST.exe
