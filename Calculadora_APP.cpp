@@ -13,7 +13,6 @@ void mostrarMenu() {
     std::cout << "----------------\n";
     std::cout << "1. Multiplicar\n";
     std::cout << "2. Dividir\n";
-    std::cout << "4. Sortir\n";
     std::cout << "3. Nombres primers\n";
     std::cout << "4. Sortir\n";
 
